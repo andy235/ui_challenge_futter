@@ -1,6 +1,10 @@
 # coffee_ui
 
-A new Flutter project.
+Coffee app ui 
+
+Screenshots:
+
+![alt text](assets/Readme/img.png)
 
 ## Getting Started
 
